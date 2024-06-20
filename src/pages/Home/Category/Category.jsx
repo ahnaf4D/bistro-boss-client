@@ -7,6 +7,7 @@ import SlideTwo from '../../../assets/slide2.jpg';
 import SlideThree from '../../../assets/slide3.jpg';
 import SlideFour from '../../../assets/slide4.jpg';
 import SlideFive from '../../../assets/slide5.jpg';
+import SlideSix from '../../../assets/slide6.jpg';
 import SectionTitle from '../../../components/SectionTitle';
 import './Category.css';
 const Category = () => {
@@ -53,9 +54,9 @@ const Category = () => {
             </p>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={SlideFive} alt='' />
+            <img src={SlideSix} alt='' />
             <p className='category-text font-cinzel text-2xl lg:text-3xl'>
-              Salads
+              Drinks
             </p>
           </SwiperSlide>
         </Swiper>

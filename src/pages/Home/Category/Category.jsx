@@ -28,25 +28,35 @@ const Category = () => {
         >
           <SwiperSlide>
             <img src={SlideOne} alt='Category' />
-            <p className='category-text font-cinzel'>Salads</p>
+            <p className='category-text font-cinzel text-2xl lg:text-3xl'>
+              Salads
+            </p>
             <br />
             <br />
           </SwiperSlide>
           <SwiperSlide>
             <img src={SlideTwo} alt='Category' />
-            <p className='category-text font-cinzel'>pizzas</p>
+            <p className='category-text font-cinzel text-2xl lg:text-3xl'>
+              pizzas
+            </p>
           </SwiperSlide>
           <SwiperSlide>
             <img src={SlideThree} alt='Category' />
-            <p className='category-text font-cinzel'>Soups</p>
+            <p className='category-text font-cinzel text-2xl lg:text-3xl'>
+              Soups
+            </p>
           </SwiperSlide>
           <SwiperSlide>
             <img src={SlideFour} alt='' />
-            <p className='category-text font-cinzel'>Desserts</p>
+            <p className='category-text font-cinzel text-2xl lg:text-3xl'>
+              Desserts
+            </p>
           </SwiperSlide>
           <SwiperSlide>
             <img src={SlideFive} alt='' />
-            <p className='category-text font-cinzel'>Salads</p>
+            <p className='category-text font-cinzel text-2xl lg:text-3xl'>
+              Salads
+            </p>
           </SwiperSlide>
         </Swiper>
       </div>

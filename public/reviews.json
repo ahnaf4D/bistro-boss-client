@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6430113af5a7e52ce1e8fa70",
+    "name": "Emily Davis",
+    "details": "Bistro Boss is simply amazing! The user interface is sleek and easy to navigate. The menu descriptions are detailed, and the photos make you want to order everything. Highly recommend!",
+    "rating": 5
+  },
+  {
+    "_id": "6430113af5a7e52ce1e8fa71",
+    "name": "Michael Thompson",
+    "details": "I've tried many restaurant websites, but Bistro Boss stands out. The online reservation system is smooth and efficient. I love how I can customize my orders and get real-time updates.",
+    "rating": 4
+  },
+  {
+    "_id": "6430113af5a7e52ce1e8fa72",
+    "name": "Sarah Johnson",
+    "details": "Bistro Boss has revolutionized the way I order food. The recommendations based on my previous orders are spot on. Plus, the customer service is quick to resolve any issues. Fantastic experience!",
+    "rating": 5
+  },
+  {
+    "_id": "6430113af5a7e52ce1e8fa73",
+    "name": "David Williams",
+    "details": "The website is great, but there is room for improvement. Sometimes the pages take a bit longer to load, but the overall experience and food quality make up for it. Keep it up, Bistro Boss!",
+    "rating": 4
+  },
+  {
+    "_id": "6430113af5a7e52ce1e8fa74",
+    "name": "Sophia Martinez",
+    "details": "I had an issue with my order once, but Bistro Boss's customer support handled it very professionally and promptly. The site is user-friendly, and the food is always delicious. Will order again!",
+    "rating": 4
+  },
+  {
+    "_id": "6430113af5a7e52ce1e8fa75",
+    "name": "James Brown",
+    "details": "Bistro Boss makes dining in so convenient. The variety of cuisines available is impressive, and the ease of finding dietary-specific options is a plus. A must-visit site for food lovers.",
+    "rating": 5
+  }
+]

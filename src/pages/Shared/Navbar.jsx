@@ -83,7 +83,7 @@ const Navbar = () => {
   );
 
   return (
-    <div className='bg-black text-white'>
+    <div className='bg-black text-white absolute z-50 w-full bg-opacity-85 md:bg-opacity-60'>
       <div className='flex justify-between items-center py-4 px-4 md:px-2'>
         <div className='text-2xl font-bold flex flex-col gap-1'>
           <Link

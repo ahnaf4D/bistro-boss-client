@@ -1,0 +1,23 @@
+.carousel .thumbs-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.carousel .thumbs {
+  display: flex;
+  justify-content: center;
+  width: auto;
+}
+
+.carousel .thumb {
+  margin: 0 5px;
+}
+/* Change the inactive dot color */
+.carousel .control-dots .dot {
+  background-color: #d0d0d0; /* Change this to your desired color */
+}
+
+/* Change the active dot color */
+.carousel .control-dots .dot.selected {
+  background-color: #007aff; /* Change this to your desired color */
+}

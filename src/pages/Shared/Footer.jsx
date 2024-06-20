@@ -4,7 +4,7 @@ const Footer = () => {
       <div className='bg-gray-900 text-white py-8 font-inter'>
         <div className='container mx-auto px-4 md:px-8 flex flex-col md:flex-row justify-between'>
           {/* Contact Us Section */}
-          <div className='flex flex-col items-center  md:w-1/2'>
+          <div className='flex flex-col items-center   md:w-full'>
             <h2 className='text-lg font-bold text-blue-400 mb-2'>CONTACT US</h2>
             <p>123 ABS Street, Unit 21, Bangladesh</p>
             <p>+88 123456789</p>
@@ -13,7 +13,7 @@ const Footer = () => {
           </div>
 
           {/* Social Media Section */}
-          <div className='flex flex-col items-center md:w-1/2 mt-6 md:mt-0'>
+          <div className='flex flex-col items-center md:w-full mt-6 md:mt-0'>
             <h2 className='text-lg font-bold mb-2'>Follow US</h2>
             <p>Join us on social media</p>
             <div className='flex space-x-4 mt-2'>
